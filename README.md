@@ -1,7 +1,3 @@
-# Data Science Challenge
-
-This repository contains my solution to a product classification challenge from the INF342 course at NTNU.
-
 ## Project Description
 
 The goal was to classify product listings into categories based on noisy and incomplete text and numerical features. Techniques used include:
